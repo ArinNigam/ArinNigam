@@ -25,9 +25,8 @@ Hello, World! ![](https://user-images.githubusercontent.com/18350557/176309783-0
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ArinNigam&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArinNigam&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArinNigam&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ArinNigam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
