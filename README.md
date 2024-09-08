@@ -5,16 +5,8 @@ Hello, World! ![](https://user-images.githubusercontent.com/18350557/176309783-0
 
 <p align="left">Welcome to my development journey! I am Arin Nigam undergrad at BITS Pilani, Goa Campus. I'm a passionate Full Stack Developer with expertise in a variety of technologies.I don't hesitate to take challenges and keep expanding my knowledge of the techstack day by day.</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">🌍  I'm based in Navi Mumbai<br>✉️  You can contact me at arin.nigam@gmail.com<br>🤝  I'm open to collaborating on Open Source Projects<br>⚡  I love to Sing, You can talk about me Cricket anyday.</p>
 
 
-###
 
 
 ## 🌐 Socials:
