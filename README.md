@@ -19,8 +19,8 @@ Hello, World! ![](https://user-images.githubusercontent.com/18350557/176309783-0
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ArinNigam&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArinNigam&theme=cobalt2&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArinNigam&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-<img src="https://github.com/user-attachments/assets/3e66617b-5cc8-46b8-8f2c-a74e0eacb0dd" alt="Description" width="400">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArinNigam&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
+<img src="https://github.com/user-attachments/assets/3e66617b-5cc8-46b8-8f2c-a74e0eacb0dd" alt="Description" width="200" height="200">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
