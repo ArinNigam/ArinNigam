@@ -70,7 +70,7 @@ Hello, World! ![](https://user-images.githubusercontent.com/18350557/176309783-0
 </p>
 
 <p align="center">
-  <img src="https://leetcode.card.workers.dev/arin_nigam?theme=dark&font=&extension=activity" alt="Leetcode Stats" />
+  <img src="https://leetcard.jacoblin.cool/arin_nigam?theme=dark&font=Montagu%20Slab&ext=heatmap" alt="Leetcode Stats" />
 </p>
 
 <p align="center">
